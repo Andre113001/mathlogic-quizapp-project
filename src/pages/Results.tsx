@@ -1,6 +1,8 @@
 import { useEffect } from 'react'
 import { useNavigate, useLocation } from 'react-router-dom'
 import { Button } from "@/components/ui/button"
+import { Header } from '@/components/header'
+import { Footer } from '@/components/footer'
 
 type ResultsState = {
   score: number
@@ -81,6 +83,7 @@ export function Results() {
           </Button>
         </div>
       </div>
+      <Footer />
     </div>
   )
 } 

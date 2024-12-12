@@ -1,0 +1,913 @@
+{
+  "easy": [
+    {
+      "id": "e1",
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "id": "e2",
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Jupiter", "Saturn", "Mars", "Venus"],
+      "correctAnswer": "Jupiter"
+    },
+    {
+      "id": "e3", 
+      "question": "Which country has the largest population?",
+      "options": ["China", "India", "USA", "Indonesia"],
+      "correctAnswer": "China"
+    },
+    {
+      "id": "e4",
+      "question": "What is 2 + 2?",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswer": "4"
+    },
+    {
+      "id": "e5",
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+      "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+      "id": "e6",
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "O2", "N2"],
+      "correctAnswer": "H2O"
+    },
+    {
+      "id": "e7",
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+      "correctAnswer": "Mars"
+    },
+    {
+      "id": "e8",
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+      "correctAnswer": "Pacific Ocean"
+    },
+    {
+      "id": "e9",
+      "question": "How many continents are there?",
+      "options": ["7", "5", "6", "8"],
+      "correctAnswer": "7"
+    },
+    {
+      "id": "e10",
+      "question": "What is the capital of Japan?",
+      "options": ["Tokyo", "Seoul", "Beijing", "Bangkok"],
+      "correctAnswer": "Tokyo"
+    },
+    {
+      "id": "e11",
+      "question": "Which animal is known as the King of the Jungle?",
+      "options": ["Lion", "Tiger", "Elephant", "Gorilla"],
+      "correctAnswer": "Lion"
+    },
+    {
+      "id": "e12",
+      "question": "What is the primary color of the sun?",
+      "options": ["Yellow", "Orange", "Red", "White"],
+      "correctAnswer": "Yellow"
+    },
+    {
+      "id": "e13",
+      "question": "How many days are in a week?",
+      "options": ["7", "5", "6", "8"],
+      "correctAnswer": "7"
+    },
+    {
+      "id": "e14",
+      "question": "What is the capital of Australia?",
+      "options": ["Canberra", "Sydney", "Melbourne", "Perth"],
+      "correctAnswer": "Canberra"
+    },
+    {
+      "id": "e15",
+      "question": "Which planet is closest to the Sun?",
+      "options": ["Mercury", "Venus", "Earth", "Mars"],
+      "correctAnswer": "Mercury"
+    },
+    {
+      "id": "e16",
+      "question": "What is the largest mammal in the world?",
+      "options": ["Blue Whale", "African Elephant", "Giraffe", "Hippopotamus"],
+      "correctAnswer": "Blue Whale"
+    },
+    {
+      "id": "e17",
+      "question": "What is the capital of Brazil?",
+      "options": ["Brasília", "Rio de Janeiro", "São Paulo", "Salvador"],
+      "correctAnswer": "Brasília"
+    },
+    {
+      "id": "e18",
+      "question": "How many sides does a triangle have?",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswer": "3"
+    },
+    {
+      "id": "e19",
+      "question": "What is the main ingredient in bread?",
+      "options": ["Flour", "Sugar", "Salt", "Yeast"],
+      "correctAnswer": "Flour"
+    },
+    {
+      "id": "e20",
+      "question": "Which season comes after winter?",
+      "options": ["Spring", "Summer", "Fall", "Autumn"],
+      "correctAnswer": "Spring"
+    },
+    {
+      "id": "e21",
+      "question": "What is the capital of Spain?",
+      "options": ["Madrid", "Barcelona", "Valencia", "Seville"],
+      "correctAnswer": "Madrid"
+    },
+    {
+      "id": "e22",
+      "question": "How many legs does a spider have?",
+      "options": ["8", "6", "10", "12"],
+      "correctAnswer": "8"
+    },
+    {
+      "id": "e23",
+      "question": "What is the largest bird in the world?",
+      "options": ["Ostrich", "Eagle", "Penguin", "Emu"],
+      "correctAnswer": "Ostrich"
+    },
+    {
+      "id": "e24",
+      "question": "Which month has 28 days?",
+      "options": ["February", "March", "April", "May"],
+      "correctAnswer": "February"
+    },
+    {
+      "id": "e25",
+      "question": "What is the capital of Italy?",
+      "options": ["Rome", "Milan", "Venice", "Florence"],
+      "correctAnswer": "Rome"
+    },
+    {
+      "id": "e26",
+      "question": "What is the primary color of grass?",
+      "options": ["Green", "Yellow", "Brown", "Red"],
+      "correctAnswer": "Green"
+    },
+    {
+      "id": "e27",
+      "question": "How many minutes are in an hour?",
+      "options": ["60", "30", "45", "90"],
+      "correctAnswer": "60"
+    },
+    {
+      "id": "e28",
+      "question": "What is the capital of China?",
+      "options": ["Beijing", "Shanghai", "Hong Kong", "Guangzhou"],
+      "correctAnswer": "Beijing"
+    },
+    {
+      "id": "e29",
+      "question": "Which planet is known as the Blue Planet?",
+      "options": ["Earth", "Neptune", "Uranus", "Mars"],
+      "correctAnswer": "Earth"
+    },
+    {
+      "id": "e30",
+      "question": "What is the largest desert in the world?",
+      "options": ["Antarctica", "Sahara", "Arabian", "Gobi"],
+      "correctAnswer": "Antarctica"
+    },
+    {
+      "id": "e31",
+      "question": "What is the capital of Russia?",
+      "options": ["Moscow", "St. Petersburg", "Kiev", "Minsk"],
+      "correctAnswer": "Moscow"
+    },
+    {
+      "id": "e32",
+      "question": "How many colors are in a rainbow?",
+      "options": ["7", "5", "6", "8"],
+      "correctAnswer": "7"
+    },
+    {
+      "id": "e33",
+      "question": "What is the fastest land animal?",
+      "options": ["Cheetah", "Lion", "Leopard", "Tiger"],
+      "correctAnswer": "Cheetah"
+    },
+    {
+      "id": "e34",
+      "question": "Which gas do plants absorb from the air?",
+      "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+      "correctAnswer": "Carbon dioxide"
+    },
+    {
+      "id": "e35",
+      "question": "What is the capital of Egypt?",
+      "options": ["Cairo", "Alexandria", "Giza", "Luxor"],
+      "correctAnswer": "Cairo"
+    },
+    {
+      "id": "e36",
+      "question": "How many teeth does an adult human have?",
+      "options": ["32", "28", "30", "34"],
+      "correctAnswer": "32"
+    },
+    {
+      "id": "e37",
+      "question": "What is the largest cat species?",
+      "options": ["Tiger", "Lion", "Leopard", "Jaguar"],
+      "correctAnswer": "Tiger"
+    },
+    {
+      "id": "e38",
+      "question": "Which planet has the most moons?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "correctAnswer": "Jupiter"
+    },
+    {
+      "id": "e39",
+      "question": "What is the capital of Canada?",
+      "options": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+      "correctAnswer": "Ottawa"
+    },
+    {
+      "id": "e40",
+      "question": "How many bones are in the human body?",
+      "options": ["206", "205", "207", "208"],
+      "correctAnswer": "206"
+    },
+    {
+      "id": "e41",
+      "question": "What is the smallest planet in our solar system?",
+      "options": ["Mercury", "Mars", "Venus", "Pluto"],
+      "correctAnswer": "Mercury"
+    },
+    {
+      "id": "e42",
+      "question": "Which country is home to the kangaroo?",
+      "options": ["Australia", "New Zealand", "South Africa", "Brazil"],
+      "correctAnswer": "Australia"
+    },
+    {
+      "id": "e43",
+      "question": "What is the capital of Germany?",
+      "options": ["Berlin", "Munich", "Hamburg", "Frankfurt"],
+      "correctAnswer": "Berlin"
+    },
+    {
+      "id": "e44",
+      "question": "How many sides does a square have?",
+      "options": ["4", "3", "5", "6"],
+      "correctAnswer": "4"
+    },
+    {
+      "id": "e45",
+      "question": "What is the largest organ in the human body?",
+      "options": ["Skin", "Liver", "Heart", "Brain"],
+      "correctAnswer": "Skin"
+    },
+    {
+      "id": "e46",
+      "question": "Which gas makes up most of Earth's atmosphere?",
+      "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Hydrogen"],
+      "correctAnswer": "Nitrogen"
+    },
+    {
+      "id": "e47",
+      "question": "What is the capital of Mexico?",
+      "options": ["Mexico City", "Guadalajara", "Monterrey", "Cancun"],
+      "correctAnswer": "Mexico City"
+    },
+    {
+      "id": "e48",
+      "question": "How many planets are in our solar system?",
+      "options": ["8", "9", "7", "10"],
+      "correctAnswer": "8"
+    },
+    {
+      "id": "e49",
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Diamond", "Gold", "Iron", "Steel"],
+      "correctAnswer": "Diamond"
+    },
+    {
+      "id": "e50",
+      "question": "What is the capital of India?",
+      "options": ["New Delhi", "Mumbai", "Bangalore", "Kolkata"],
+      "correctAnswer": "New Delhi"
+    }
+  ],
+  "medium": [
+    {
+      "id": "m1",
+      "question": "Which element has the chemical symbol 'Au'?",
+      "options": ["Gold", "Silver", "Copper", "Aluminum"],
+      "correctAnswer": "Gold"
+    },
+    {
+      "id": "m2",
+      "question": "What is the capital of Kazakhstan?",
+      "options": ["Astana", "Almaty", "Shymkent", "Karaganda"],
+      "correctAnswer": "Astana"
+    },
+    {
+      "id": "m3", 
+      "question": "Which planet is known as the 'Morning Star'?",
+      "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+      "correctAnswer": "Venus"
+    },
+    {
+      "id": "m4",
+      "question": "What is the atomic number of Carbon?",
+      "options": ["6", "12", "8", "4"],
+      "correctAnswer": "6"
+    },
+    {
+      "id": "m5",
+      "question": "Who wrote 'The Canterbury Tales'?",
+      "options": ["Geoffrey Chaucer", "William Shakespeare", "John Milton", "Christopher Marlowe"],
+      "correctAnswer": "Geoffrey Chaucer"
+    },
+    {
+      "id": "m6",
+      "question": "What is the largest moon of Saturn?",
+      "options": ["Titan", "Enceladus", "Mimas", "Rhea"],
+      "correctAnswer": "Titan"
+    },
+    {
+      "id": "m7",
+      "question": "Which element has the highest melting point?",
+      "options": ["Tungsten", "Platinum", "Titanium", "Iron"],
+      "correctAnswer": "Tungsten"
+    },
+    {
+      "id": "m8",
+      "question": "What is the speed of sound in air at sea level?",
+      "options": ["343 m/s", "299 m/s", "400 m/s", "250 m/s"],
+      "correctAnswer": "343 m/s"
+    },
+    {
+      "id": "m9",
+      "question": "Who discovered penicillin?",
+      "options": ["Alexander Fleming", "Louis Pasteur", "Robert Koch", "Joseph Lister"],
+      "correctAnswer": "Alexander Fleming"
+    },
+    {
+      "id": "m10",
+      "question": "What is the largest species of penguin?",
+      "options": ["Emperor Penguin", "King Penguin", "Gentoo Penguin", "Adelie Penguin"],
+      "correctAnswer": "Emperor Penguin"
+    },
+    {
+      "id": "m11",
+      "question": "Which mountain range separates Europe from Asia?",
+      "options": ["Ural Mountains", "Alps", "Himalayas", "Andes"],
+      "correctAnswer": "Ural Mountains"
+    },
+    {
+      "id": "m12",
+      "question": "What is the chemical formula for sulfuric acid?",
+      "options": ["H2SO4", "HCl", "HNO3", "H3PO4"],
+      "correctAnswer": "H2SO4"
+    },
+    {
+      "id": "m13",
+      "question": "Who painted 'The Persistence of Memory'?",
+      "options": ["Salvador Dali", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+      "correctAnswer": "Salvador Dali"
+    },
+    {
+      "id": "m14",
+      "question": "What is the longest river in Europe?",
+      "options": ["Volga", "Danube", "Rhine", "Seine"],
+      "correctAnswer": "Volga"
+    },
+    {
+      "id": "m15",
+      "question": "Which element is essential for nuclear fission?",
+      "options": ["Uranium", "Gold", "Iron", "Copper"],
+      "correctAnswer": "Uranium"
+    },
+    {
+      "id": "m16",
+      "question": "What is the capital of Morocco?",
+      "options": ["Rabat", "Casablanca", "Marrakech", "Fez"],
+      "correctAnswer": "Rabat"
+    },
+    {
+      "id": "m17",
+      "question": "Who composed 'The Four Seasons'?",
+      "options": ["Antonio Vivaldi", "Johann Bach", "Wolfgang Mozart", "Ludwig Beethoven"],
+      "correctAnswer": "Antonio Vivaldi"
+    },
+    {
+      "id": "m18",
+      "question": "What is the smallest bone in the human body?",
+      "options": ["Stapes", "Femur", "Radius", "Tibia"],
+      "correctAnswer": "Stapes"
+    },
+    {
+      "id": "m19",
+      "question": "Which planet has the Great Red Spot?",
+      "options": ["Jupiter", "Mars", "Venus", "Saturn"],
+      "correctAnswer": "Jupiter"
+    },
+    {
+      "id": "m20",
+      "question": "What is the chemical symbol for silver?",
+      "options": ["Ag", "Au", "Fe", "Cu"],
+      "correctAnswer": "Ag"
+    },
+    {
+      "id": "m21",
+      "question": "Who wrote '1984'?",
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "H.G. Wells"],
+      "correctAnswer": "George Orwell"
+    },
+    {
+      "id": "m22",
+      "question": "What is the largest desert in Asia?",
+      "options": ["Gobi Desert", "Arabian Desert", "Thar Desert", "Kyzylkum Desert"],
+      "correctAnswer": "Gobi Desert"
+    },
+    {
+      "id": "m23",
+      "question": "Which element is most abundant in Earth's crust?",
+      "options": ["Oxygen", "Silicon", "Aluminum", "Iron"],
+      "correctAnswer": "Oxygen"
+    },
+    {
+      "id": "m24",
+      "question": "What is the capital of Argentina?",
+      "options": ["Buenos Aires", "Santiago", "Lima", "Montevideo"],
+      "correctAnswer": "Buenos Aires"
+    },
+    {
+      "id": "m25",
+      "question": "Who discovered the law of gravity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Johannes Kepler"],
+      "correctAnswer": "Isaac Newton"
+    },
+    {
+      "id": "m26",
+      "question": "What is the deepest point in the ocean?",
+      "options": ["Mariana Trench", "Puerto Rico Trench", "Java Trench", "Tonga Trench"],
+      "correctAnswer": "Mariana Trench"
+    },
+    {
+      "id": "m27",
+      "question": "Which country has the most islands in the world?",
+      "options": ["Sweden", "Norway", "Indonesia", "Philippines"],
+      "correctAnswer": "Sweden"
+    },
+    {
+      "id": "m28",
+      "question": "What is the chemical formula for table salt?",
+      "options": ["NaCl", "CaCO3", "H2O", "CO2"],
+      "correctAnswer": "NaCl"
+    },
+    {
+      "id": "m29",
+      "question": "Who painted the Sistine Chapel ceiling?",
+      "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Botticelli"],
+      "correctAnswer": "Michelangelo"
+    },
+    {
+      "id": "m30",
+      "question": "What is the largest lake in Africa?",
+      "options": ["Lake Victoria", "Lake Tanganyika", "Lake Malawi", "Lake Chad"],
+      "correctAnswer": "Lake Victoria"
+    },
+    {
+      "id": "m31",
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+      "correctAnswer": "Mars"
+    },
+    {
+      "id": "m32",
+      "question": "What is the capital of South Korea?",
+      "options": ["Seoul", "Busan", "Incheon", "Daegu"],
+      "correctAnswer": "Seoul"
+    },
+    {
+      "id": "m33",
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["William Shakespeare", "Christopher Marlowe", "Ben Jonson", "John Webster"],
+      "correctAnswer": "William Shakespeare"
+    },
+    {
+      "id": "m34",
+      "question": "What is the largest species of shark?",
+      "options": ["Whale Shark", "Great White Shark", "Tiger Shark", "Hammerhead Shark"],
+      "correctAnswer": "Whale Shark"
+    },
+    {
+      "id": "m35",
+      "question": "Which mountain is the highest in Africa?",
+      "options": ["Kilimanjaro", "Mount Kenya", "Mount Stanley", "Mount Meru"],
+      "correctAnswer": "Kilimanjaro"
+    },
+    {
+      "id": "m36",
+      "question": "What is the chemical symbol for lead?",
+      "options": ["Pb", "Ld", "Lu", "Li"],
+      "correctAnswer": "Pb"
+    },
+    {
+      "id": "m37",
+      "question": "Who discovered radium?",
+      "options": ["Marie Curie", "Albert Einstein", "Niels Bohr", "Ernest Rutherford"],
+      "correctAnswer": "Marie Curie"
+    },
+    {
+      "id": "m38",
+      "question": "What is the largest archipelago in the world?",
+      "options": ["Indonesia", "Philippines", "Japan", "Maldives"],
+      "correctAnswer": "Indonesia"
+    },
+    {
+      "id": "m39",
+      "question": "Which element is essential for photosynthesis?",
+      "options": ["Magnesium", "Iron", "Calcium", "Potassium"],
+      "correctAnswer": "Magnesium"
+    },
+    {
+      "id": "m40",
+      "question": "What is the capital of Vietnam?",
+      "options": ["Hanoi", "Ho Chi Minh City", "Da Nang", "Hai Phong"],
+      "correctAnswer": "Hanoi"
+    },
+    {
+      "id": "m41",
+      "question": "Who composed 'Symphony No. 5'?",
+      "options": ["Ludwig van Beethoven", "Wolfgang Mozart", "Johann Bach", "Franz Schubert"],
+      "correctAnswer": "Ludwig van Beethoven"
+    },
+    {
+      "id": "m42",
+      "question": "What is the largest species of bear?",
+      "options": ["Polar Bear", "Grizzly Bear", "Black Bear", "Brown Bear"],
+      "correctAnswer": "Polar Bear"
+    },
+    {
+      "id": "m43",
+      "question": "Which river is the longest in South America?",
+      "options": ["Amazon", "Parana", "Orinoco", "São Francisco"],
+      "correctAnswer": "Amazon"
+    },
+    {
+      "id": "m44",
+      "question": "What is the chemical symbol for mercury?",
+      "options": ["Hg", "Me", "Mr", "Mc"],
+      "correctAnswer": "Hg"
+    },
+    {
+      "id": "m45",
+      "question": "Who invented the telephone?",
+      "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "George Westinghouse"],
+      "correctAnswer": "Alexander Graham Bell"
+    },
+    {
+      "id": "m46",
+      "question": "What is the largest moon in our solar system?",
+      "options": ["Ganymede", "Titan", "Callisto", "Io"],
+      "correctAnswer": "Ganymede"
+    },
+    {
+      "id": "m47",
+      "question": "Which country has the most volcanoes?",
+      "options": ["Indonesia", "Japan", "Chile", "United States"],
+      "correctAnswer": "Indonesia"
+    },
+    {
+      "id": "m48",
+      "question": "What is the chemical formula for methane?",
+      "options": ["CH4", "CO2", "H2O", "NH3"],
+      "correctAnswer": "CH4"
+    },
+    {
+      "id": "m49",
+      "question": "Who painted 'The Starry Night'?",
+      "options": ["Vincent van Gogh", "Claude Monet", "Pablo Picasso", "Salvador Dali"],
+      "correctAnswer": "Vincent van Gogh"
+    },
+    {
+      "id": "m50",
+      "question": "What is the largest canyon in the world?",
+      "options": ["Grand Canyon", "Fish River Canyon", "Copper Canyon", "Yarlung Tsangpo Canyon"],
+      "correctAnswer": "Grand Canyon"
+    }
+  ],
+  "hard": [
+    {
+      "id": "h1",
+      "question": "In quantum physics, what is the name of the principle that states that you cannot simultaneously know the exact position and momentum of a particle?",
+      "options": [
+        "Heisenberg Uncertainty Principle",
+        "Pauli Exclusion Principle",
+        "Quantum Entanglement",
+        "Wave-Particle Duality"
+      ],
+      "correctAnswer": "Heisenberg Uncertainty Principle"
+    },
+    {
+      "id": "h2",
+      "question": "What is the name of the mathematical concept that deals with the study of shapes that can be divided into parts, each of which is a reduced-size copy of the whole?",
+      "options": ["Fractals", "Topology", "Calculus", "Linear Algebra"],
+      "correctAnswer": "Fractals"
+    },
+    {
+      "id": "h3", 
+      "question": "Which subatomic particle was first theorized by Wolfgang Pauli in 1930 to explain beta decay?",
+      "options": ["Neutrino", "Positron", "Muon", "Tau"],
+      "correctAnswer": "Neutrino"
+    },
+    {
+      "id": "h4",
+      "question": "What is the name of the ancient Greek mechanism discovered in 1901 that is considered the world's first analog computer?",
+      "options": ["Antikythera mechanism", "Archimedes screw", "Odometer", "Astrolabe"],
+      "correctAnswer": "Antikythera mechanism"
+    },
+    {
+      "id": "h5",
+      "question": "Which mathematical constant is defined as the sum of the infinite series 1 + 1/4 + 1/9 + 1/16 + ..., and equals π²/6?",
+      "options": ["Basel problem", "Euler number", "Golden ratio", "Champernowne constant"],
+      "correctAnswer": "Basel problem"
+    },
+    {
+      "id": "h6",
+      "question": "What is the name of the hypothetical type of matter that would have a negative mass and would be repelled by all other matter?",
+      "options": ["Exotic matter", "Dark matter", "Antimatter", "Strange matter"],
+      "correctAnswer": "Exotic matter"
+    },
+    {
+      "id": "h7",
+      "question": "Which mathematical theorem states that no three-dimensional figure can have more than eight vertices if each vertex is connected to every other vertex by a straight line that doesn't intersect any other line?",
+      "options": ["Euler's theorem", "Kuratowski's theorem", "Jordan curve theorem", "Cayley's theorem"],
+      "correctAnswer": "Euler's theorem"
+    },
+    {
+      "id": "h8",
+      "question": "What is the name of the quantum mechanical phenomenon where particles can tunnel through a potential barrier that they classically could not surmount?",
+      "options": ["Quantum tunneling", "Quantum entanglement", "Quantum superposition", "Quantum decoherence"],
+      "correctAnswer": "Quantum tunneling"
+    },
+    {
+      "id": "h9",
+      "question": "Which mathematical concept describes a surface that has only one side and one edge, formed by joining the ends of a rectangle after giving one end a half twist?",
+      "options": ["Möbius strip", "Klein bottle", "Torus", "Hypercube"],
+      "correctAnswer": "Möbius strip"
+    },
+    {
+      "id": "h10",
+      "question": "What is the name of the theoretical object that connects two distant points in spacetime, potentially allowing for time travel?",
+      "options": ["Einstein-Rosen bridge", "Cosmic string", "Domain wall", "Magnetic monopole"],
+      "correctAnswer": "Einstein-Rosen bridge"
+    },
+    {
+      "id": "h11",
+      "question": "Which theorem in topology states that you cannot comb the hair on a sphere without creating at least one cowlick?",
+      "options": ["Hairy ball theorem", "Fixed point theorem", "Brouwer theorem", "Borsuk-Ulam theorem"],
+      "correctAnswer": "Hairy ball theorem"
+    },
+    {
+      "id": "h12",
+      "question": "What is the name of the paradox that suggests that the universe should be uniformly filled with alien civilizations, yet we see no evidence of them?",
+      "options": ["Fermi paradox", "Drake equation", "Anthropic principle", "Copernican principle"],
+      "correctAnswer": "Fermi paradox"
+    },
+    {
+      "id": "h13",
+      "question": "Which physical constant represents the theoretical lowest possible temperature where all molecular motion ceases?",
+      "options": ["Absolute zero", "Planck temperature", "Critical point", "Triple point"],
+      "correctAnswer": "Absolute zero"
+    },
+    {
+      "id": "h14",
+      "question": "What is the name of the mathematical problem that asks whether every map can be colored using only four colors so that no adjacent regions share the same color?",
+      "options": ["Four color theorem", "Graph coloring problem", "Map theorem", "Chromatic number"],
+      "correctAnswer": "Four color theorem"
+    },
+    {
+      "id": "h15",
+      "question": "Which quantum mechanical effect describes the phenomenon where pairs of particles are generated, interact, and then separate while maintaining a correlation?",
+      "options": ["Quantum entanglement", "Wave function collapse", "Quantum tunneling", "Quantum superposition"],
+      "correctAnswer": "Quantum entanglement"
+    },
+    {
+      "id": "h16",
+      "question": "What is the name of the theoretical structure that would allow for faster-than-light travel by warping spacetime?",
+      "options": ["Alcubierre drive", "Tachyonic antitelephone", "Tipler cylinder", "Krasnikov tube"],
+      "correctAnswer": "Alcubierre drive"
+    },
+    {
+      "id": "h17",
+      "question": "Which mathematical concept describes a number that cannot be expressed as a ratio of two integers?",
+      "options": ["Irrational number", "Transcendental number", "Complex number", "Imaginary number"],
+      "correctAnswer": "Irrational number"
+    },
+    {
+      "id": "h18",
+      "question": "What is the name of the theoretical particle that would mediate the force of gravity in quantum theory?",
+      "options": ["Graviton", "Higgs boson", "Tachyon", "Axion"],
+      "correctAnswer": "Graviton"
+    },
+    {
+      "id": "h19",
+      "question": "Which mathematical constant is defined as the limit of (1 + 1/n)^n as n approaches infinity?",
+      "options": ["e", "π", "φ", "γ"],
+      "correctAnswer": "e"
+    },
+    {
+      "id": "h20",
+      "question": "What is the name of the phenomenon where a particle's wave function changes instantaneously when measured?",
+      "options": ["Wave function collapse", "Quantum decoherence", "Phase transition", "Quantum tunneling"],
+      "correctAnswer": "Wave function collapse"
+    },
+    {
+      "id": "h21",
+      "question": "Which theorem states that no algorithm can determine whether an arbitrary computer program will eventually halt or run forever?",
+      "options": ["Halting problem", "Gödel's incompleteness theorem", "Church-Turing thesis", "Rice's theorem"],
+      "correctAnswer": "Halting problem"
+    },
+    {
+      "id": "h22",
+      "question": "What is the name of the theoretical form of matter that exists at extremely high densities and temperatures?",
+      "options": ["Quark-gluon plasma", "Bose-Einstein condensate", "Neutron degenerate matter", "Strange matter"],
+      "correctAnswer": "Quark-gluon plasma"
+    },
+    {
+      "id": "h23",
+      "question": "Which mathematical concept describes a space where the parallel postulate of Euclidean geometry does not hold?",
+      "options": ["Non-Euclidean geometry", "Topology", "Vector space", "Manifold"],
+      "correctAnswer": "Non-Euclidean geometry"
+    },
+    {
+      "id": "h24",
+      "question": "What is the name of the theoretical particle that would explain why particles have mass?",
+      "options": ["Higgs boson", "W boson", "Z boson", "Gluon"],
+      "correctAnswer": "Higgs boson"
+    },
+    {
+      "id": "h25",
+      "question": "Which principle states that no two identical fermions can occupy the same quantum state simultaneously?",
+      "options": ["Pauli exclusion principle", "Heisenberg uncertainty principle", "Complementarity principle", "Correspondence principle"],
+      "correctAnswer": "Pauli exclusion principle"
+    },
+    {
+      "id": "h26",
+      "question": "What is the name of the mathematical concept that describes a collection of points forming a connected region in space?",
+      "options": ["Manifold", "Set", "Field", "Group"],
+      "correctAnswer": "Manifold"
+    },
+    {
+      "id": "h27",
+      "question": "Which physical theory attempts to reconcile quantum mechanics with general relativity?",
+      "options": ["String theory", "Loop quantum gravity", "Causal dynamical triangulations", "Twistor theory"],
+      "correctAnswer": "String theory"
+    },
+    {
+      "id": "h28",
+      "question": "What is the name of the mathematical concept that describes a transformation that preserves distances between points?",
+      "options": ["Isometry", "Homomorphism", "Homeomorphism", "Diffeomorphism"],
+      "correctAnswer": "Isometry"
+    },
+    {
+      "id": "h29",
+      "question": "Which quantum mechanical interpretation suggests that every possible outcome of a quantum event occurs in a different parallel universe?",
+      "options": ["Many-worlds interpretation", "Copenhagen interpretation", "Pilot wave theory", "Quantum Bayesianism"],
+      "correctAnswer": "Many-worlds interpretation"
+    },
+    {
+      "id": "h30",
+      "question": "What is the name of the theoretical object that would allow information to be preserved when falling into a black hole?",
+      "options": ["Holographic principle", "Firewall", "Fuzzball", "Planck star"],
+      "correctAnswer": "Holographic principle"
+    },
+    {
+      "id": "h31",
+      "question": "Which mathematical theorem states that every polynomial equation has a complex solution?",
+      "options": ["Fundamental theorem of algebra", "Intermediate value theorem", "Mean value theorem", "Rolle's theorem"],
+      "correctAnswer": "Fundamental theorem of algebra"
+    },
+    {
+      "id": "h32",
+      "question": "What is the name of the theoretical particle that always travels faster than light?",
+      "options": ["Tachyon", "Luxon", "Tardyon", "Preon"],
+      "correctAnswer": "Tachyon"
+    },
+    {
+      "id": "h33",
+      "question": "Which mathematical concept describes a space where distances between points can be defined?",
+      "options": ["Metric space", "Topological space", "Vector space", "Hilbert space"],
+      "correctAnswer": "Metric space"
+    },
+    {
+      "id": "h34",
+      "question": "What is the name of the quantum mechanical effect where particles can exist in multiple states simultaneously?",
+      "options": ["Quantum superposition", "Quantum entanglement", "Quantum tunneling", "Quantum decoherence"],
+      "correctAnswer": "Quantum superposition"
+    },
+    {
+      "id": "h35",
+      "question": "Which theorem states that the sum of the angles in a hyperbolic triangle is less than 180 degrees?",
+      "options": ["Gauss-Bonnet theorem", "Pythagoras theorem", "Law of sines", "Law of cosines"],
+      "correctAnswer": "Gauss-Bonnet theorem"
+    },
+    {
+      "id": "h36",
+      "question": "What is the name of the theoretical structure that would connect two different points in the universe through a shortcut in spacetime?",
+      "options": ["Wormhole", "Black hole", "White hole", "Cosmic string"],
+      "correctAnswer": "Wormhole"
+    },
+    {
+      "id": "h37",
+      "question": "Which mathematical concept describes a collection of elements with a binary operation that satisfies certain axioms?",
+      "options": ["Group", "Ring", "Field", "Module"],
+      "correctAnswer": "Group"
+    },
+    {
+      "id": "h38",
+      "question": "What is the name of the theoretical particle that would explain the existence of dark matter?",
+      "options": ["WIMP", "Axion", "Sterile neutrino", "Gravitino"],
+      "correctAnswer": "WIMP"
+    },
+    {
+      "id": "h39",
+      "question": "Which mathematical theorem states that any continuous function on a closed interval has a maximum and minimum value?",
+      "options": ["Extreme value theorem", "Mean value theorem", "Intermediate value theorem", "Rolle's theorem"],
+      "correctAnswer": "Extreme value theorem"
+    },
+    {
+      "id": "h40",
+      "question": "What is the name of the quantum mechanical phenomenon where particles can exchange their quantum numbers?",
+      "options": ["Particle exchange", "Quantum tunneling", "Wave function collapse", "Quantum entanglement"],
+      "correctAnswer": "Particle exchange"
+    },
+    {
+      "id": "h41",
+      "question": "Which mathematical concept describes a space where each point has a neighborhood that resembles Euclidean space?",
+      "options": ["Manifold", "Topology", "Metric space", "Vector space"],
+      "correctAnswer": "Manifold"
+    },
+    {
+      "id": "h42",
+      "question": "What is the name of the theoretical force that would unify all fundamental forces including gravity?",
+      "options": ["Theory of everything", "Grand unified theory", "Quantum gravity", "Standard model"],
+      "correctAnswer": "Theory of everything"
+    },
+    {
+      "id": "h43",
+      "question": "Which mathematical theorem states that every continuous function on a closed interval is uniformly continuous?",
+      "options": ["Heine-Cantor theorem", "Bolzano-Weierstrass theorem", "Baire category theorem", "Banach fixed-point theorem"],
+      "correctAnswer": "Heine-Cantor theorem"
+    },
+    {
+      "id": "h44",
+      "question": "What is the name of the quantum mechanical effect where a particle's spin is quantized in discrete values?",
+      "options": ["Spin quantization", "Zeeman effect", "Stark effect", "Lamb shift"],
+      "correctAnswer": "Spin quantization"
+    },
+    {
+      "id": "h45",
+      "question": "Which mathematical concept describes a space where the notion of distance is replaced by a more general set of axioms?",
+      "options": ["Topological space", "Metric space", "Vector space", "Normed space"],
+      "correctAnswer": "Topological space"
+    },
+    {
+      "id": "h46",
+      "question": "What is the name of the theoretical particle that would mediate the strong nuclear force?",
+      "options": ["Gluon", "Photon", "W boson", "Z boson"],
+      "correctAnswer": "Gluon"
+    },
+    {
+      "id": "h47",
+      "question": "Which mathematical theorem states that every polynomial of degree n has exactly n complex roots, counting multiplicity?",
+      "options": ["Fundamental theorem of algebra", "Factor theorem", "Remainder theorem", "Rational root theorem"],
+      "correctAnswer": "Fundamental theorem of algebra"
+    },
+    {
+      "id": "h48",
+      "question": "What is the name of the quantum mechanical phenomenon where a particle's properties depend on the measurement basis?",
+      "options": ["Quantum complementarity", "Wave-particle duality", "Quantum entanglement", "Quantum tunneling"],
+      "correctAnswer": "Quantum complementarity"
+    },
+    {
+      "id": "h49",
+      "question": "Which mathematical concept describes a function that maps a topological space to itself continuously?",
+      "options": ["Homeomorphism", "Isomorphism", "Homomorphism", "Diffeomorphism"],
+      "correctAnswer": "Homeomorphism"
+    },
+    {
+      "id": "h50",
+      "question": "What is the name of the theoretical particle that would explain the asymmetry between matter and antimatter in the universe?",
+      "options": ["Majorana fermion", "Sterile neutrino", "Axion", "Magnetic monopole"],
+      "correctAnswer": "Majorana fermion"
+    }
+  ]
+} 

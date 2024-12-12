@@ -1,6 +1,8 @@
 import { useState } from "react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
+import { Header } from "@/components/header"
+import { Footer } from "@/components/footer"
 import {
   Select,
   SelectContent,
@@ -22,6 +24,7 @@ export function Login() {
   return (
     <div className="h-screen flex items-center justify-center bg-background">
       <div className="w-full max-w-sm space-y-6 p-6">
+        <Header />
         <div className="space-y-2 text-center">
           <h1 className="text-3xl font-bold">Test Your Logic Skills</h1>
           <p className="text-muted-foreground">Challenge yourself with logic statements and quantifiers. Enter your name to begin.</p>
@@ -57,6 +60,7 @@ export function Login() {
           </Button>
         </div>
       </div>
+      <Footer />
     </div>
   )
 } 

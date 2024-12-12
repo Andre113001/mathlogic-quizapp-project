@@ -2,912 +2,1057 @@
   "easy": [
     {
       "id": "e1",
-      "question": "What is the capital of France?",
-      "options": ["Paris", "London", "Berlin", "Madrid"],
-      "correctAnswer": "Paris"
+      "question": "What does the universal quantifier (∀) represent in logic?",
+      "options": ["For all", "There exists", "Not", "If... then"],
+      "correctAnswer": "For all"
     },
     {
       "id": "e2",
-      "question": "What is the largest planet in our solar system?",
-      "options": ["Jupiter", "Saturn", "Mars", "Venus"],
-      "correctAnswer": "Jupiter"
+      "question": "What does the existential quantifier (∃) indicate?",
+      "options": ["For all", "There exists", "Not", "If... then"],
+      "correctAnswer": "There exists"
     },
     {
-      "id": "e3", 
-      "question": "Which country has the largest population?",
-      "options": ["China", "India", "USA", "Indonesia"],
-      "correctAnswer": "China"
+      "id": "e3",
+      "question": "What is the negation of the statement 'All cats are black'?",
+      "options": [
+        "No cats are black",
+        "Some cats are not black",
+        "All cats are white",
+        "All cats are black"
+      ],
+      "correctAnswer": "Some cats are not black"
     },
     {
       "id": "e4",
-      "question": "What is 2 + 2?",
-      "options": ["3", "4", "5", "6"],
-      "correctAnswer": "4"
+      "question": "Which of the following is a logical conjunction?",
+      "options": ["And", "Or", "Not", "If... then"],
+      "correctAnswer": "And"
     },
     {
       "id": "e5",
-      "question": "Who painted the Mona Lisa?",
-      "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
-      "correctAnswer": "Leonardo da Vinci"
+      "question": "Which of the following is a logical disjunction?",
+      "options": ["And", "Or", "Not", "If... then"],
+      "correctAnswer": "Or"
     },
     {
       "id": "e6",
-      "question": "What is the chemical symbol for water?",
-      "options": ["H2O", "CO2", "O2", "N2"],
-      "correctAnswer": "H2O"
+      "question": "What is the truth value of 'P and not P'?",
+      "options": ["True", "False", "Depends on P", "Undefined"],
+      "correctAnswer": "False"
     },
     {
       "id": "e7",
-      "question": "Which planet is known as the Red Planet?",
-      "options": ["Mars", "Venus", "Mercury", "Jupiter"],
-      "correctAnswer": "Mars"
+      "question": "What is the truth value of 'P or not P'?",
+      "options": ["True", "False", "Depends on P", "Undefined"],
+      "correctAnswer": "True"
     },
     {
       "id": "e8",
-      "question": "What is the largest ocean on Earth?",
-      "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
-      "correctAnswer": "Pacific Ocean"
+      "question": "What does the statement 'If P, then Q' imply?",
+      "options": [
+        "P is true, Q is true",
+        "If P is true, Q must be true",
+        "P is false, Q is false",
+        "P and Q are independent"
+      ],
+      "correctAnswer": "If P is true, Q must be true"
     },
     {
       "id": "e9",
-      "question": "How many continents are there?",
-      "options": ["7", "5", "6", "8"],
-      "correctAnswer": "7"
+      "question": "What is a contradiction?",
+      "options": [
+        "A statement that is always true",
+        "A statement that is always false",
+        "A statement that can be true or false",
+        "A statement that is true in some cases"
+      ],
+      "correctAnswer": "A statement that is always false"
     },
     {
       "id": "e10",
-      "question": "What is the capital of Japan?",
-      "options": ["Tokyo", "Seoul", "Beijing", "Bangkok"],
-      "correctAnswer": "Tokyo"
+      "question": "What is the contrapositive of 'If P, then Q'?",
+      "options": [
+        "If Q, then P",
+        "If not Q, then not P",
+        "If not P, then not Q",
+        "If P, then not Q"
+      ],
+      "correctAnswer": "If not Q, then not P"
     },
     {
       "id": "e11",
-      "question": "Which animal is known as the King of the Jungle?",
-      "options": ["Lion", "Tiger", "Elephant", "Gorilla"],
-      "correctAnswer": "Lion"
+      "question": "What is the logical operator for negation?",
+      "options": ["∧", "∨", "¬", "→"],
+      "correctAnswer": "¬"
     },
     {
       "id": "e12",
-      "question": "What is the primary color of the sun?",
-      "options": ["Yellow", "Orange", "Red", "White"],
-      "correctAnswer": "Yellow"
+      "question": "Which of the following statements is a tautology?",
+      "options": [
+        "P and not P",
+        "P or not P",
+        "P implies not P",
+        "None of the above"
+      ],
+      "correctAnswer": "P or not P"
     },
     {
       "id": "e13",
-      "question": "How many days are in a week?",
-      "options": ["7", "5", "6", "8"],
-      "correctAnswer": "7"
+      "question": "What is the symbol for 'if and only if'?",
+      "options": ["→", "↔", "¬", "∧"],
+      "correctAnswer": "↔"
     },
     {
       "id": "e14",
-      "question": "What is the capital of Australia?",
-      "options": ["Canberra", "Sydney", "Melbourne", "Perth"],
-      "correctAnswer": "Canberra"
+      "question": "What does 'P ↔ Q' mean?",
+      "options": [
+        "P implies Q",
+        "Q implies P",
+        "P is equivalent to Q",
+        "P and Q are both true"
+      ],
+      "correctAnswer": "P is equivalent to Q"
     },
     {
       "id": "e15",
-      "question": "Which planet is closest to the Sun?",
-      "options": ["Mercury", "Venus", "Earth", "Mars"],
-      "correctAnswer": "Mercury"
+      "question": "What is the result of 'not (P and Q)'?",
+      "options": [
+        "not P and not Q",
+        "not P or not Q",
+        "P or Q",
+        "P and Q"
+      ],
+      "correctAnswer": "not P or not Q"
     },
     {
       "id": "e16",
-      "question": "What is the largest mammal in the world?",
-      "options": ["Blue Whale", "African Elephant", "Giraffe", "Hippopotamus"],
-      "correctAnswer": "Blue Whale"
+      "question": "What is the result of 'not (P or Q)'?",
+      "options": [
+        "not P and not Q",
+        "not P or not Q",
+        "P and Q",
+        "P or Q"
+      ],
+      "correctAnswer": "not P and not Q"
     },
     {
       "id": "e17",
-      "question": "What is the capital of Brazil?",
-      "options": ["Brasília", "Rio de Janeiro", "São Paulo", "Salvador"],
-      "correctAnswer": "Brasília"
+      "question": "Which of the following is a valid argument form?",
+      "options": [
+        "Modus Ponens",
+        "Affirming the Consequent",
+        "Denying the Antecedent",
+        "None of the above"
+      ],
+      "correctAnswer": "Modus Ponens"
     },
     {
       "id": "e18",
-      "question": "How many sides does a triangle have?",
-      "options": ["3", "4", "5", "6"],
-      "correctAnswer": "3"
+      "question": "What is the logical equivalent of 'P implies Q'?",
+      "options": [
+        "not P or Q",
+        "P and not Q",
+        "not Q or P",
+        "P or Q"
+      ],
+      "correctAnswer": "not P or Q"
     },
     {
       "id": "e19",
-      "question": "What is the main ingredient in bread?",
-      "options": ["Flour", "Sugar", "Salt", "Yeast"],
-      "correctAnswer": "Flour"
+      "question": "What is the term for a statement that can be true or false?",
+      "options": [
+        "Proposition",
+        "Tautology",
+        "Contradiction",
+        "Inference"
+      ],
+      "correctAnswer": "Proposition"
     },
     {
       "id": "e20",
-      "question": "Which season comes after winter?",
-      "options": ["Spring", "Summer", "Fall", "Autumn"],
-      "correctAnswer": "Spring"
+      "question": "What is the result of 'P and (Q or R)'?",
+      "options": [
+        "P and Q or R",
+        "P and Q and R",
+        "P or Q and R",
+        "None of the above"
+      ],
+      "correctAnswer": "P and (Q or R)"
     },
     {
       "id": "e21",
-      "question": "What is the capital of Spain?",
-      "options": ["Madrid", "Barcelona", "Valencia", "Seville"],
-      "correctAnswer": "Madrid"
+      "question": "What is the term for the logical fallacy of assuming that one event causes another just because they occur together?",
+      "options": [
+        "Post hoc",
+        "Ad hominem",
+        "Straw man",
+        "Slippery slope"
+      ],
+      "correctAnswer": "Post hoc"
     },
     {
       "id": "e22",
-      "question": "How many legs does a spider have?",
-      "options": ["8", "6", "10", "12"],
-      "correctAnswer": "8"
+      "question": "What is the logical operator for 'or'?",
+      "options": ["∧", "∨", "¬", "→"],
+      "correctAnswer": "∨"
     },
     {
       "id": "e23",
-      "question": "What is the largest bird in the world?",
-      "options": ["Ostrich", "Eagle", "Penguin", "Emu"],
-      "correctAnswer": "Ostrich"
+      "question": "What is the result of 'P or (Q and R)'?",
+      "options": [
+        "P or Q and R",
+        "P and Q or R",
+        "P or Q or R",
+        "None of the above"
+      ],
+      "correctAnswer": "P or (Q and R)"
     },
     {
       "id": "e24",
-      "question": "Which month has 28 days?",
-      "options": ["February", "March", "April", "May"],
-      "correctAnswer": "February"
+      "question": "What is the term for a statement that is always true regardless of the truth values of its components?",
+      "options": [
+        "Tautology",
+        "Contradiction",
+        "Proposition",
+        "Inference"
+      ],
+      "correctAnswer": "Tautology"
     },
     {
       "id": "e25",
-      "question": "What is the capital of Italy?",
-      "options": ["Rome", "Milan", "Venice", "Florence"],
-      "correctAnswer": "Rome"
+      "question": "What is the term for a statement that is always false?",
+      "options": [
+        "Tautology",
+        "Contradiction",
+        "Proposition",
+        "Inference"
+      ],
+      "correctAnswer": "Contradiction"
     },
     {
       "id": "e26",
-      "question": "What is the primary color of grass?",
-      "options": ["Green", "Yellow", "Brown", "Red"],
-      "correctAnswer": "Green"
+      "question": "What is the logical form of 'If P, then Q' when P is false?",
+      "options": [
+        "True",
+        "False",
+        "Depends on Q",
+        "None of the above"
+      ],
+      "correctAnswer": "True"
     },
     {
       "id": "e27",
-      "question": "How many minutes are in an hour?",
-      "options": ["60", "30", "45", "90"],
-      "correctAnswer": "60"
+      "question": "What is the term for the logical process of deriving a conclusion from premises?",
+      "options": [
+        "Induction",
+        "Deduction",
+        "Abduction",
+        "None of the above"
+      ],
+      "correctAnswer": "Deduction"
     },
     {
       "id": "e28",
-      "question": "What is the capital of China?",
-      "options": ["Beijing", "Shanghai", "Hong Kong", "Guangzhou"],
-      "correctAnswer": "Beijing"
+      "question": "What is the term for a logical statement that combines two or more propositions?",
+      "options": [
+        "Compound statement",
+        "Simple statement",
+        "Tautology",
+        "Contradiction"
+      ],
+      "correctAnswer": "Compound statement"
     },
     {
       "id": "e29",
-      "question": "Which planet is known as the Blue Planet?",
-      "options": ["Earth", "Neptune", "Uranus", "Mars"],
-      "correctAnswer": "Earth"
+      "question": "What is the result of 'not (not P)'?",
+      "options": [
+        "P",
+        "not P",
+        "True",
+        "False"
+      ],
+      "correctAnswer": "P"
     },
     {
       "id": "e30",
-      "question": "What is the largest desert in the world?",
-      "options": ["Antarctica", "Sahara", "Arabian", "Gobi"],
-      "correctAnswer": "Antarctica"
-    },
-    {
-      "id": "e31",
-      "question": "What is the capital of Russia?",
-      "options": ["Moscow", "St. Petersburg", "Kiev", "Minsk"],
-      "correctAnswer": "Moscow"
-    },
-    {
-      "id": "e32",
-      "question": "How many colors are in a rainbow?",
-      "options": ["7", "5", "6", "8"],
-      "correctAnswer": "7"
-    },
-    {
-      "id": "e33",
-      "question": "What is the fastest land animal?",
-      "options": ["Cheetah", "Lion", "Leopard", "Tiger"],
-      "correctAnswer": "Cheetah"
-    },
-    {
-      "id": "e34",
-      "question": "Which gas do plants absorb from the air?",
-      "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
-      "correctAnswer": "Carbon dioxide"
-    },
-    {
-      "id": "e35",
-      "question": "What is the capital of Egypt?",
-      "options": ["Cairo", "Alexandria", "Giza", "Luxor"],
-      "correctAnswer": "Cairo"
-    },
-    {
-      "id": "e36",
-      "question": "How many teeth does an adult human have?",
-      "options": ["32", "28", "30", "34"],
-      "correctAnswer": "32"
-    },
-    {
-      "id": "e37",
-      "question": "What is the largest cat species?",
-      "options": ["Tiger", "Lion", "Leopard", "Jaguar"],
-      "correctAnswer": "Tiger"
-    },
-    {
-      "id": "e38",
-      "question": "Which planet has the most moons?",
-      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
-      "correctAnswer": "Jupiter"
-    },
-    {
-      "id": "e39",
-      "question": "What is the capital of Canada?",
-      "options": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
-      "correctAnswer": "Ottawa"
-    },
-    {
-      "id": "e40",
-      "question": "How many bones are in the human body?",
-      "options": ["206", "205", "207", "208"],
-      "correctAnswer": "206"
-    },
-    {
-      "id": "e41",
-      "question": "What is the smallest planet in our solar system?",
-      "options": ["Mercury", "Mars", "Venus", "Pluto"],
-      "correctAnswer": "Mercury"
-    },
-    {
-      "id": "e42",
-      "question": "Which country is home to the kangaroo?",
-      "options": ["Australia", "New Zealand", "South Africa", "Brazil"],
-      "correctAnswer": "Australia"
-    },
-    {
-      "id": "e43",
-      "question": "What is the capital of Germany?",
-      "options": ["Berlin", "Munich", "Hamburg", "Frankfurt"],
-      "correctAnswer": "Berlin"
-    },
-    {
-      "id": "e44",
-      "question": "How many sides does a square have?",
-      "options": ["4", "3", "5", "6"],
-      "correctAnswer": "4"
-    },
-    {
-      "id": "e45",
-      "question": "What is the largest organ in the human body?",
-      "options": ["Skin", "Liver", "Heart", "Brain"],
-      "correctAnswer": "Skin"
-    },
-    {
-      "id": "e46",
-      "question": "Which gas makes up most of Earth's atmosphere?",
-      "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Hydrogen"],
-      "correctAnswer": "Nitrogen"
-    },
-    {
-      "id": "e47",
-      "question": "What is the capital of Mexico?",
-      "options": ["Mexico City", "Guadalajara", "Monterrey", "Cancun"],
-      "correctAnswer": "Mexico City"
-    },
-    {
-      "id": "e48",
-      "question": "How many planets are in our solar system?",
-      "options": ["8", "9", "7", "10"],
-      "correctAnswer": "8"
-    },
-    {
-      "id": "e49",
-      "question": "What is the hardest natural substance on Earth?",
-      "options": ["Diamond", "Gold", "Iron", "Steel"],
-      "correctAnswer": "Diamond"
-    },
-    {
-      "id": "e50",
-      "question": "What is the capital of India?",
-      "options": ["New Delhi", "Mumbai", "Bangalore", "Kolkata"],
-      "correctAnswer": "New Delhi"
+      "question": "Which of the following is an example of a universal statement?",
+      "options": [
+        "All birds can fly.",
+        "Some birds can fly.",
+        "No birds can fly.",
+        "Birds can fly."
+      ],
+      "correctAnswer": "All birds can fly."
     }
   ],
   "medium": [
     {
       "id": "m1",
-      "question": "Which element has the chemical symbol 'Au'?",
-      "options": ["Gold", "Silver", "Copper", "Aluminum"],
-      "correctAnswer": "Gold"
+      "question": "What is the De Morgan's law for negation of 'P and Q'?",
+      "options": [
+        "not P or not Q",
+        "not P and not Q", 
+        "P or Q", 
+        "P and Q"
+      ],
+      "correctAnswer": "not P or not Q"
     },
     {
       "id": "m2",
-      "question": "What is the capital of Kazakhstan?",
-      "options": ["Astana", "Almaty", "Shymkent", "Karaganda"],
-      "correctAnswer": "Astana"
+      "question": "What is the truth table result when P is true and Q is false for 'P → Q'?",
+      "options": ["True", "False", "Depends", "Undefined"],
+      "correctAnswer": "False"
     },
     {
-      "id": "m3", 
-      "question": "Which planet is known as the 'Morning Star'?",
-      "options": ["Venus", "Mars", "Mercury", "Jupiter"],
-      "correctAnswer": "Venus"
+      "id": "m3",
+      "question": "Which logical argument follows the form: If P, then Q; Q is false; therefore P is false?",
+      "options": [
+        "Modus Ponens", 
+        "Modus Tollens", 
+        "Affirming the Consequent", 
+        "Denying the Antecedent"
+      ],
+      "correctAnswer": "Modus Tollens"
     },
     {
       "id": "m4",
-      "question": "What is the atomic number of Carbon?",
-      "options": ["6", "12", "8", "4"],
-      "correctAnswer": "6"
+      "question": "What does the predicate calculus primarily deal with?",
+      "options": [
+        "Quantifiers and predicates", 
+        "Propositional logic", 
+        "Set theory", 
+        "Boolean algebra"
+      ],
+      "correctAnswer": "Quantifiers and predicates"
     },
     {
       "id": "m5",
-      "question": "Who wrote 'The Canterbury Tales'?",
-      "options": ["Geoffrey Chaucer", "William Shakespeare", "John Milton", "Christopher Marlowe"],
-      "correctAnswer": "Geoffrey Chaucer"
+      "question": "What is the logical negation of 'Some x are P'?",
+      "options": [
+        "No x are P", 
+        "All x are not P", 
+        "Some x are not P", 
+        "There exist x that are P"
+      ],
+      "correctAnswer": "No x are P"
     },
     {
       "id": "m6",
-      "question": "What is the largest moon of Saturn?",
-      "options": ["Titan", "Enceladus", "Mimas", "Rhea"],
-      "correctAnswer": "Titan"
+      "question": "What is the scope of quantification in first-order logic?",
+      "options": [
+        "Individual objects", 
+        "Sets", 
+        "Propositions", 
+        "Functions"
+      ],
+      "correctAnswer": "Individual objects"
     },
     {
       "id": "m7",
-      "question": "Which element has the highest melting point?",
-      "options": ["Tungsten", "Platinum", "Titanium", "Iron"],
-      "correctAnswer": "Tungsten"
+      "question": "What does the symbol '⊢' represent in logical notation?",
+      "options": [
+        "Logical consequence", 
+        "Logical equivalence", 
+        "Implication", 
+        "Contradiction"
+      ],
+      "correctAnswer": "Logical consequence"
     },
     {
       "id": "m8",
-      "question": "What is the speed of sound in air at sea level?",
-      "options": ["343 m/s", "299 m/s", "400 m/s", "250 m/s"],
-      "correctAnswer": "343 m/s"
+      "question": "Which logical principle states that from a contradiction, anything follows?",
+      "options": [
+        "Principle of Explosion", 
+        "Law of Non-Contradiction", 
+        "Law of Excluded Middle", 
+        "Principle of Identity"
+      ],
+      "correctAnswer": "Principle of Explosion"
     },
     {
       "id": "m9",
-      "question": "Who discovered penicillin?",
-      "options": ["Alexander Fleming", "Louis Pasteur", "Robert Koch", "Joseph Lister"],
-      "correctAnswer": "Alexander Fleming"
+      "question": "What is the purpose of a truth table?",
+      "options": [
+        "To show all possible truth values", 
+        "To prove mathematical theorems", 
+        "To create logical circuits", 
+        "To define set theory"
+      ],
+      "correctAnswer": "To show all possible truth values"
     },
     {
       "id": "m10",
-      "question": "What is the largest species of penguin?",
-      "options": ["Emperor Penguin", "King Penguin", "Gentoo Penguin", "Adelie Penguin"],
-      "correctAnswer": "Emperor Penguin"
+      "question": "What does the symbol '∴' typically represent?",
+      "options": [
+        "Therefore", 
+        "For all", 
+        "There exists", 
+        "Implies"
+      ],
+      "correctAnswer": "Therefore"
     },
     {
       "id": "m11",
-      "question": "Which mountain range separates Europe from Asia?",
-      "options": ["Ural Mountains", "Alps", "Himalayas", "Andes"],
-      "correctAnswer": "Ural Mountains"
+      "question": "What is a predicate in first-order logic?",
+      "options": [
+        "A statement about objects", 
+        "A quantifier", 
+        "A logical connective", 
+        "A truth value"
+      ],
+      "correctAnswer": "A statement about objects"
     },
     {
       "id": "m12",
-      "question": "What is the chemical formula for sulfuric acid?",
-      "options": ["H2SO4", "HCl", "HNO3", "H3PO4"],
-      "correctAnswer": "H2SO4"
+      "question": "What does soundness mean in logical reasoning?",
+      "options": [
+        "Valid arguments with true premises", 
+        "All arguments are true", 
+        "Premises guarantee conclusion", 
+        "Logical consistency"
+      ],
+      "correctAnswer": "Valid arguments with true premises"
     },
     {
       "id": "m13",
-      "question": "Who painted 'The Persistence of Memory'?",
-      "options": ["Salvador Dali", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
-      "correctAnswer": "Salvador Dali"
+      "question": "What is the difference between deductive and inductive reasoning?",
+      "options": [
+        "Certainty vs probability", 
+        "Number of premises", 
+        "Logical connectives", 
+        "Quantifier usage"
+      ],
+      "correctAnswer": "Certainty vs probability"
     },
     {
       "id": "m14",
-      "question": "What is the longest river in Europe?",
-      "options": ["Volga", "Danube", "Rhine", "Seine"],
-      "correctAnswer": "Volga"
+      "question": "What does the existential quantifier guarantee?",
+      "options": [
+        "At least one object exists", 
+        "All objects satisfy a condition", 
+        "No objects exist", 
+        "Objects are independent"
+      ],
+      "correctAnswer": "At least one object exists"
     },
     {
       "id": "m15",
-      "question": "Which element is essential for nuclear fission?",
-      "options": ["Uranium", "Gold", "Iron", "Copper"],
-      "correctAnswer": "Uranium"
+      "question": "What is a well-formed formula (WFF) in propositional logic?",
+      "options": [
+        "A grammatically correct logical expression", 
+        "A true statement", 
+        "A mathematical equation", 
+        "A set of propositions"
+      ],
+      "correctAnswer": "A grammatically correct logical expression"
     },
     {
       "id": "m16",
-      "question": "What is the capital of Morocco?",
-      "options": ["Rabat", "Casablanca", "Marrakech", "Fez"],
-      "correctAnswer": "Rabat"
+      "question": "What is the primary difference between propositional and predicate logic?",
+      "options": [
+        "Ability to quantify over predicates", 
+        "Number of logical connectives", 
+        "Truth table complexity", 
+        "Proof techniques"
+      ],
+      "correctAnswer": "Ability to quantify over predicates"
     },
     {
       "id": "m17",
-      "question": "Who composed 'The Four Seasons'?",
-      "options": ["Antonio Vivaldi", "Johann Bach", "Wolfgang Mozart", "Ludwig Beethoven"],
-      "correctAnswer": "Antonio Vivaldi"
+      "question": "What does the law of excluded middle state?",
+      "options": [
+        "Every proposition is either true or false", 
+        "No proposition can be true", 
+        "All propositions are uncertain", 
+        "Propositions are context-dependent"
+      ],
+      "correctAnswer": "Every proposition is either true or false"
     },
     {
       "id": "m18",
-      "question": "What is the smallest bone in the human body?",
-      "options": ["Stapes", "Femur", "Radius", "Tibia"],
-      "correctAnswer": "Stapes"
+      "question": "What is a semantic tableaux method used for?",
+      "options": [
+        "Proving logical validity", 
+        "Creating truth tables", 
+        "Defining set theory", 
+        "Constructing logical circuits"
+      ],
+      "correctAnswer": "Proving logical validity"
     },
     {
       "id": "m19",
-      "question": "Which planet has the Great Red Spot?",
-      "options": ["Jupiter", "Mars", "Venus", "Saturn"],
-      "correctAnswer": "Jupiter"
+      "question": "What does the Curry-Howard correspondence relate?",
+      "options": [
+        "Proofs and programs", 
+        "Sets and logic", 
+        "Truth tables and circuits", 
+        "Quantifiers and predicates"
+      ],
+      "correctAnswer": "Proofs and programs"
     },
     {
       "id": "m20",
-      "question": "What is the chemical symbol for silver?",
-      "options": ["Ag", "Au", "Fe", "Cu"],
-      "correctAnswer": "Ag"
+      "question": "What is a first-order theory?",
+      "options": [
+        "A set of axioms in first-order logic", 
+        "A collection of predicates", 
+        "A truth table", 
+        "A logical proof"
+      ],
+      "correctAnswer": "A set of axioms in first-order logic"
     },
     {
       "id": "m21",
-      "question": "Who wrote '1984'?",
-      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "H.G. Wells"],
-      "correctAnswer": "George Orwell"
+      "question": "What does the Completeness Theorem state about first-order logic?",
+      "options": [
+        "All true statements are provable", 
+        "No statements are provable", 
+        "Some statements are unprovable", 
+        "Logic is inconsistent"
+      ],
+      "correctAnswer": "All true statements are provable"
     },
     {
       "id": "m22",
-      "question": "What is the largest desert in Asia?",
-      "options": ["Gobi Desert", "Arabian Desert", "Thar Desert", "Kyzylkum Desert"],
-      "correctAnswer": "Gobi Desert"
+      "question": "What is a free variable in logic?",
+      "options": [
+        "A variable not bound by a quantifier", 
+        "A constant value", 
+        "A predefined variable", 
+        "A quantified variable"
+      ],
+      "correctAnswer": "A variable not bound by a quantifier"
     },
     {
       "id": "m23",
-      "question": "Which element is most abundant in Earth's crust?",
-      "options": ["Oxygen", "Silicon", "Aluminum", "Iron"],
-      "correctAnswer": "Oxygen"
+      "question": "What does the Löwenheim-Skolem theorem state?",
+      "options": [
+        "Any consistent first-order theory has a countable model", 
+        "All logical statements are provable", 
+        "Logic is complete", 
+        "Quantifiers are always definable"
+      ],
+      "correctAnswer": "Any consistent first-order theory has a countable model"
     },
     {
       "id": "m24",
-      "question": "What is the capital of Argentina?",
-      "options": ["Buenos Aires", "Santiago", "Lima", "Montevideo"],
-      "correctAnswer": "Buenos Aires"
+      "question": "What is the purpose of prenex normal form in predicate logic?",
+      "options": [
+        "Standardizing quantifier placement", 
+        "Simplifying truth tables", 
+        "Reducing logical complexity", 
+        "Eliminating predicates"
+      ],
+      "correctAnswer": "Standardizing quantifier placement"
     },
     {
       "id": "m25",
-      "question": "Who discovered the law of gravity?",
-      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Johannes Kepler"],
-      "correctAnswer": "Isaac Newton"
+      "question": "What does the Compactness Theorem demonstrate?",
+      "options": [
+        "Finite satisfiability implies infinite satisfiability", 
+        "All logical statements are true", 
+        "Quantifiers are always resolvable", 
+        "Proofs are always possible"
+      ],
+      "correctAnswer": "Finite satisfiability implies infinite satisfiability"
     },
     {
       "id": "m26",
-      "question": "What is the deepest point in the ocean?",
-      "options": ["Mariana Trench", "Puerto Rico Trench", "Java Trench", "Tonga Trench"],
-      "correctAnswer": "Mariana Trench"
+      "question": "What is the primary challenge of the Halting Problem in computability theory?",
+      "options": [
+        "Determining if a program will eventually stop", 
+        "Proving all algorithms are decidable", 
+        "Creating infinite loops", 
+        "Simplifying computational logic"
+      ],
+      "correctAnswer": "Determining if a program will eventually stop"
     },
     {
       "id": "m27",
-      "question": "Which country has the most islands in the world?",
-      "options": ["Sweden", "Norway", "Indonesia", "Philippines"],
-      "correctAnswer": "Sweden"
+      "question": "What does the Gödel's Incompleteness Theorem demonstrate?",
+      "options": [
+        "Some true mathematical statements cannot be proven", 
+        "All mathematical statements are provable", 
+        "Logic is always complete", 
+        "Quantifiers resolve all uncertainties"
+      ],
+      "correctAnswer": "Some true mathematical statements cannot be proven"
     },
     {
       "id": "m28",
-      "question": "What is the chemical formula for table salt?",
-      "options": ["NaCl", "CaCO3", "H2O", "CO2"],
-      "correctAnswer": "NaCl"
+      "question": "What is a first-order predicate in logical notation?",
+      "options": [
+        "A function that returns true or false", 
+        "A mathematical equation", 
+        "A logical connective", 
+        "A quantifier definition"
+      ],
+      "correctAnswer": "A function that returns true or false"
     },
     {
       "id": "m29",
-      "question": "Who painted the Sistine Chapel ceiling?",
-      "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Botticelli"],
-      "correctAnswer": "Michelangelo"
+      "question": "What does the Herbrand Theorem relate to?",
+      "options": [
+        "Mechanical theorem proving", 
+        "Truth table construction", 
+        "Quantifier elimination", 
+        "Logical circuit design"
+      ],
+      "correctAnswer": "Mechanical theorem proving"
     },
     {
       "id": "m30",
-      "question": "What is the largest lake in Africa?",
-      "options": ["Lake Victoria", "Lake Tanganyika", "Lake Malawi", "Lake Chad"],
-      "correctAnswer": "Lake Victoria"
-    },
-    {
-      "id": "m31",
-      "question": "Which planet is known as the Red Planet?",
-      "options": ["Mars", "Venus", "Jupiter", "Mercury"],
-      "correctAnswer": "Mars"
-    },
-    {
-      "id": "m32",
-      "question": "What is the capital of South Korea?",
-      "options": ["Seoul", "Busan", "Incheon", "Daegu"],
-      "correctAnswer": "Seoul"
-    },
-    {
-      "id": "m33",
-      "question": "Who wrote 'Romeo and Juliet'?",
-      "options": ["William Shakespeare", "Christopher Marlowe", "Ben Jonson", "John Webster"],
-      "correctAnswer": "William Shakespeare"
-    },
-    {
-      "id": "m34",
-      "question": "What is the largest species of shark?",
-      "options": ["Whale Shark", "Great White Shark", "Tiger Shark", "Hammerhead Shark"],
-      "correctAnswer": "Whale Shark"
-    },
-    {
-      "id": "m35",
-      "question": "Which mountain is the highest in Africa?",
-      "options": ["Kilimanjaro", "Mount Kenya", "Mount Stanley", "Mount Meru"],
-      "correctAnswer": "Kilimanjaro"
-    },
-    {
-      "id": "m36",
-      "question": "What is the chemical symbol for lead?",
-      "options": ["Pb", "Ld", "Lu", "Li"],
-      "correctAnswer": "Pb"
-    },
-    {
-      "id": "m37",
-      "question": "Who discovered radium?",
-      "options": ["Marie Curie", "Albert Einstein", "Niels Bohr", "Ernest Rutherford"],
-      "correctAnswer": "Marie Curie"
-    },
-    {
-      "id": "m38",
-      "question": "What is the largest archipelago in the world?",
-      "options": ["Indonesia", "Philippines", "Japan", "Maldives"],
-      "correctAnswer": "Indonesia"
-    },
-    {
-      "id": "m39",
-      "question": "Which element is essential for photosynthesis?",
-      "options": ["Magnesium", "Iron", "Calcium", "Potassium"],
-      "correctAnswer": "Magnesium"
-    },
-    {
-      "id": "m40",
-      "question": "What is the capital of Vietnam?",
-      "options": ["Hanoi", "Ho Chi Minh City", "Da Nang", "Hai Phong"],
-      "correctAnswer": "Hanoi"
-    },
-    {
-      "id": "m41",
-      "question": "Who composed 'Symphony No. 5'?",
-      "options": ["Ludwig van Beethoven", "Wolfgang Mozart", "Johann Bach", "Franz Schubert"],
-      "correctAnswer": "Ludwig van Beethoven"
-    },
-    {
-      "id": "m42",
-      "question": "What is the largest species of bear?",
-      "options": ["Polar Bear", "Grizzly Bear", "Black Bear", "Brown Bear"],
-      "correctAnswer": "Polar Bear"
-    },
-    {
-      "id": "m43",
-      "question": "Which river is the longest in South America?",
-      "options": ["Amazon", "Parana", "Orinoco", "São Francisco"],
-      "correctAnswer": "Amazon"
-    },
-    {
-      "id": "m44",
-      "question": "What is the chemical symbol for mercury?",
-      "options": ["Hg", "Me", "Mr", "Mc"],
-      "correctAnswer": "Hg"
-    },
-    {
-      "id": "m45",
-      "question": "Who invented the telephone?",
-      "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "George Westinghouse"],
-      "correctAnswer": "Alexander Graham Bell"
-    },
-    {
-      "id": "m46",
-      "question": "What is the largest moon in our solar system?",
-      "options": ["Ganymede", "Titan", "Callisto", "Io"],
-      "correctAnswer": "Ganymede"
-    },
-    {
-      "id": "m47",
-      "question": "Which country has the most volcanoes?",
-      "options": ["Indonesia", "Japan", "Chile", "United States"],
-      "correctAnswer": "Indonesia"
-    },
-    {
-      "id": "m48",
-      "question": "What is the chemical formula for methane?",
-      "options": ["CH4", "CO2", "H2O", "NH3"],
-      "correctAnswer": "CH4"
-    },
-    {
-      "id": "m49",
-      "question": "Who painted 'The Starry Night'?",
-      "options": ["Vincent van Gogh", "Claude Monet", "Pablo Picasso", "Salvador Dali"],
-      "correctAnswer": "Vincent van Gogh"
-    },
-    {
-      "id": "m50",
-      "question": "What is the largest canyon in the world?",
-      "options": ["Grand Canyon", "Fish River Canyon", "Copper Canyon", "Yarlung Tsangpo Canyon"],
-      "correctAnswer": "Grand Canyon"
+      "question": "What is the significance of the Church-Turing Thesis?",
+      "options": [
+        "Defining computational decidability", 
+        "Creating logical circuits", 
+        "Resolving quantifier issues", 
+        "Simplifying proof techniques"
+      ],
+      "correctAnswer": "Defining computational decidability"
     }
   ],
   "hard": [
     {
       "id": "h1",
-      "question": "In quantum physics, what is the name of the principle that states that you cannot simultaneously know the exact position and momentum of a particle?",
+      "question": "In first-order logic, what is the Skolem-Noether theorem primarily concerned with?",
       "options": [
-        "Heisenberg Uncertainty Principle",
-        "Pauli Exclusion Principle",
-        "Quantum Entanglement",
-        "Wave-Particle Duality"
+        "Automorphisms of first-order structures",
+        "Quantifier elimination techniques",
+        "Proof complexity",
+        "Semantic completeness"
       ],
-      "correctAnswer": "Heisenberg Uncertainty Principle"
+      "correctAnswer": "Automorphisms of first-order structures"
     },
     {
       "id": "h2",
-      "question": "What is the name of the mathematical concept that deals with the study of shapes that can be divided into parts, each of which is a reduced-size copy of the whole?",
-      "options": ["Fractals", "Topology", "Calculus", "Linear Algebra"],
-      "correctAnswer": "Fractals"
+      "question": "What does the Craig Interpolation Theorem demonstrate in mathematical logic?",
+      "options": [
+        "Existence of an intermediate logical statement between two theories",
+        "Proof complexity reduction",
+        "Quantifier elimination",
+        "Semantic completeness"
+      ],
+      "correctAnswer": "Existence of an intermediate logical statement between two theories"
     },
     {
-      "id": "h3", 
-      "question": "Which subatomic particle was first theorized by Wolfgang Pauli in 1930 to explain beta decay?",
-      "options": ["Neutrino", "Positron", "Muon", "Tau"],
-      "correctAnswer": "Neutrino"
+      "id": "h3",
+      "question": "What is the significance of Prenex Normal Form in predicate logic?",
+      "options": [
+        "Standardizing quantifier placement at the beginning of a formula",
+        "Eliminating quantifiers completely",
+        "Reducing logical complexity",
+        "Creating universal quantification"
+      ],
+      "correctAnswer": "Standardizing quantifier placement at the beginning of a formula"
     },
     {
       "id": "h4",
-      "question": "What is the name of the ancient Greek mechanism discovered in 1901 that is considered the world's first analog computer?",
-      "options": ["Antikythera mechanism", "Archimedes screw", "Odometer", "Astrolabe"],
-      "correctAnswer": "Antikythera mechanism"
+      "question": "What does the Löwenheim-Skolem theorem demonstrate about first-order theories?",
+      "options": [
+        "If a first-order theory has an infinite model, it has both countable and uncountable models",
+        "All first-order theories are complete",
+        "Quantifiers can always be eliminated",
+        "Every theory has a unique model"
+      ],
+      "correctAnswer": "If a first-order theory has an infinite model, it has both countable and uncountable models"
     },
     {
       "id": "h5",
-      "question": "Which mathematical constant is defined as the sum of the infinite series 1 + 1/4 + 1/9 + 1/16 + ..., and equals π²/6?",
-      "options": ["Basel problem", "Euler number", "Golden ratio", "Champernowne constant"],
-      "correctAnswer": "Basel problem"
+      "question": "What is the primary challenge addressed by the Quantifier Elimination theorem?",
+      "options": [
+        "Reducing first-order formulas to quantifier-free equivalent forms",
+        "Creating more complex logical statements",
+        "Increasing quantification complexity",
+        "Proving all statements are decidable"
+      ],
+      "correctAnswer": "Reducing first-order formulas to quantifier-free equivalent forms"
     },
     {
       "id": "h6",
-      "question": "What is the name of the hypothetical type of matter that would have a negative mass and would be repelled by all other matter?",
-      "options": ["Exotic matter", "Dark matter", "Antimatter", "Strange matter"],
-      "correctAnswer": "Exotic matter"
+      "question": "What does the Herbrand Theorem demonstrate in first-order logic?",
+      "options": [
+        "Any first-order theorem can be proven using ground terms",
+        "Quantifiers can always be resolved",
+        "All logical statements are decidable",
+        "Proofs are always constructible"
+      ],
+      "correctAnswer": "Any first-order theorem can be proven using ground terms"
     },
     {
       "id": "h7",
-      "question": "Which mathematical theorem states that no three-dimensional figure can have more than eight vertices if each vertex is connected to every other vertex by a straight line that doesn't intersect any other line?",
-      "options": ["Euler's theorem", "Kuratowski's theorem", "Jordan curve theorem", "Cayley's theorem"],
-      "correctAnswer": "Euler's theorem"
+      "question": "What is the significance of Beth Definability Theorem?",
+      "options": [
+        "Defining implicit predicates through explicit definitions",
+        "Eliminating all quantifiers",
+        "Resolving semantic ambiguities",
+        "Creating universal logical frameworks"
+      ],
+      "correctAnswer": "Defining implicit predicates through explicit definitions"
     },
     {
       "id": "h8",
-      "question": "What is the name of the quantum mechanical phenomenon where particles can tunnel through a potential barrier that they classically could not surmount?",
-      "options": ["Quantum tunneling", "Quantum entanglement", "Quantum superposition", "Quantum decoherence"],
-      "correctAnswer": "Quantum tunneling"
+      "question": "What does the Compactness Theorem demonstrate about first-order logic?",
+      "options": [
+        "A set of formulas is satisfiable if every finite subset is satisfiable",
+        "All logical statements are provable",
+        "Quantifiers resolve all uncertainties",
+        "Every theory has a model"
+      ],
+      "correctAnswer": "A set of formulas is satisfiable if every finite subset is satisfiable"
     },
     {
       "id": "h9",
-      "question": "Which mathematical concept describes a surface that has only one side and one edge, formed by joining the ends of a rectangle after giving one end a half twist?",
-      "options": ["Möbius strip", "Klein bottle", "Torus", "Hypercube"],
-      "correctAnswer": "Möbius strip"
+      "question": "What is the primary concern of Tarski's Undefinability Theorem?",
+      "options": [
+        "Truth cannot be defined within a sufficiently powerful formal system",
+        "All mathematical statements are definable",
+        "Quantifiers can define all concepts",
+        "Logical systems are always complete"
+      ],
+      "correctAnswer": "Truth cannot be defined within a sufficiently powerful formal system"
     },
     {
       "id": "h10",
-      "question": "What is the name of the theoretical object that connects two distant points in spacetime, potentially allowing for time travel?",
-      "options": ["Einstein-Rosen bridge", "Cosmic string", "Domain wall", "Magnetic monopole"],
-      "correctAnswer": "Einstein-Rosen bridge"
+      "question": "What does the Interpolation Lemma demonstrate in first-order logic?",
+      "options": [
+        "Existence of an intermediate predicate between two theories",
+        "All theories are compatible",
+        "Quantifiers can bridge different logical systems",
+        "Logical statements are always translatable"
+      ],
+      "correctAnswer": "Existence of an intermediate predicate between two theories"
     },
     {
       "id": "h11",
-      "question": "Which theorem in topology states that you cannot comb the hair on a sphere without creating at least one cowlick?",
-      "options": ["Hairy ball theorem", "Fixed point theorem", "Brouwer theorem", "Borsuk-Ulam theorem"],
-      "correctAnswer": "Hairy ball theorem"
+      "question": "What is the significance of the Downward Löwenheim-Skolem Theorem?",
+      "options": [
+        "Any first-order theory with an infinite model has a countable model",
+        "All infinite models are isomorphic",
+        "Quantifiers can reduce model complexity",
+        "Logical theories are always categorical"
+      ],
+      "correctAnswer": "Any first-order theory with an infinite model has a countable model"
     },
     {
       "id": "h12",
-      "question": "What is the name of the paradox that suggests that the universe should be uniformly filled with alien civilizations, yet we see no evidence of them?",
-      "options": ["Fermi paradox", "Drake equation", "Anthropic principle", "Copernican principle"],
-      "correctAnswer": "Fermi paradox"
+      "question": "What does the Robinson Consistency Theorem demonstrate?",
+      "options": [
+        "Minimal conditions for first-order theory consistency",
+        "All theories are inherently consistent",
+        "Quantifiers guarantee logical consistency",
+        "Logical systems are always complete"
+      ],
+      "correctAnswer": "Minimal conditions for first-order theory consistency"
     },
     {
       "id": "h13",
-      "question": "Which physical constant represents the theoretical lowest possible temperature where all molecular motion ceases?",
-      "options": ["Absolute zero", "Planck temperature", "Critical point", "Triple point"],
-      "correctAnswer": "Absolute zero"
+      "question": "What is the primary challenge of the Quantifier Projection Problem?",
+      "options": [
+        "Determining existential and universal quantifier projections in first-order theories",
+        "Eliminating all quantifiers",
+        "Reducing logical complexity",
+        "Creating universal logical frameworks"
+      ],
+      "correctAnswer": "Determining existential and universal quantifier projections in first-order theories"
     },
     {
       "id": "h14",
-      "question": "What is the name of the mathematical problem that asks whether every map can be colored using only four colors so that no adjacent regions share the same color?",
-      "options": ["Four color theorem", "Graph coloring problem", "Map theorem", "Chromatic number"],
-      "correctAnswer": "Four color theorem"
+      "question": "What does the Lyndon Interpolation Theorem demonstrate?",
+      "options": [
+        "Existence of interpolants between first-order theories with restricted quantifier complexity",
+        "All theories are logically equivalent",
+        "Quantifiers can always be simplified",
+        "Logical statements are universally translatable"
+      ],
+      "correctAnswer": "Existence of interpolants between first-order theories with restricted quantifier complexity"
     },
     {
       "id": "h15",
-      "question": "Which quantum mechanical effect describes the phenomenon where pairs of particles are generated, interact, and then separate while maintaining a correlation?",
-      "options": ["Quantum entanglement", "Wave function collapse", "Quantum tunneling", "Quantum superposition"],
-      "correctAnswer": "Quantum entanglement"
+      "question": "What is the significance of the Barwise Compactness Theorem?",
+      "options": [
+        "Extending compactness to infinitary logics with generalized quantifiers",
+        "Proving all logical systems are compact",
+        "Reducing quantifier complexity",
+        "Creating universal logical frameworks"
+      ],
+      "correctAnswer": "Extending compactness to infinitary logics with generalized quantifiers"
     },
     {
       "id": "h16",
-      "question": "What is the name of the theoretical structure that would allow for faster-than-light travel by warping spacetime?",
-      "options": ["Alcubierre drive", "Tachyonic antitelephone", "Tipler cylinder", "Krasnikov tube"],
-      "correctAnswer": "Alcubierre drive"
+      "question": "What does the Ehrenfeucht-Fraïssé Game demonstrate in model theory?",
+      "options": [
+        "Distinguishing first-order definable properties between finite structures",
+        "Creating universal model comparison techniques",
+        "Eliminating quantifier differences",
+        "Proving all models are isomorphic"
+      ],
+      "correctAnswer": "Distinguishing first-order definable properties between finite structures"
     },
     {
       "id": "h17",
-      "question": "Which mathematical concept describes a number that cannot be expressed as a ratio of two integers?",
-      "options": ["Irrational number", "Transcendental number", "Complex number", "Imaginary number"],
-      "correctAnswer": "Irrational number"
+      "question": "What is the primary concern of the Quantifier Elimination Problem?",
+      "options": [
+        "Transforming first-order formulas into equivalent quantifier-free forms",
+        "Creating more complex logical statements",
+        "Increasing quantification complexity",
+        "Proving all statements are decidable"
+      ],
+      "correctAnswer": "Transforming first-order formulas into equivalent quantifier-free forms"
     },
     {
       "id": "h18",
-      "question": "What is the name of the theoretical particle that would mediate the force of gravity in quantum theory?",
-      "options": ["Graviton", "Higgs boson", "Tachyon", "Axion"],
-      "correctAnswer": "Graviton"
+      "question": "What does the Vaught's Two-Model Theorem demonstrate?",
+      "options": [
+        "Conditions for non-isomorphic models with the same first-order theory",
+        "All models are fundamentally similar",
+        "Quantifiers resolve model differences",
+        "Logical theories are always categorical"
+      ],
+      "correctAnswer": "Conditions for non-isomorphic models with the same first-order theory"
     },
     {
       "id": "h19",
-      "question": "Which mathematical constant is defined as the limit of (1 + 1/n)^n as n approaches infinity?",
-      "options": ["e", "π", "φ", "γ"],
-      "correctAnswer": "e"
+      "question": "What is the significance of the Lyndon-Robinson Technique?",
+      "options": [
+        "Constructing models through logical combination of theories",
+        "Eliminating all logical uncertainties",
+        "Reducing quantifier complexity",
+        "Creating universal proof methods"
+      ],
+      "correctAnswer": "Constructing models through logical combination of theories"
     },
     {
       "id": "h20",
-      "question": "What is the name of the phenomenon where a particle's wave function changes instantaneously when measured?",
-      "options": ["Wave function collapse", "Quantum decoherence", "Phase transition", "Quantum tunneling"],
-      "correctAnswer": "Wave function collapse"
+      "question": "What does the Morley's Categoricity Theorem demonstrate?",
+      "options": [
+        "Conditions for theories to have only one model up to isomorphism",
+        "All theories are fundamentally unique",
+        "Quantifiers determine model structure",
+        "Logical systems are always complete"
+      ],
+      "correctAnswer": "Conditions for theories to have only one model up to isomorphism"
     },
     {
       "id": "h21",
-      "question": "Which theorem states that no algorithm can determine whether an arbitrary computer program will eventually halt or run forever?",
-      "options": ["Halting problem", "Gödel's incompleteness theorem", "Church-Turing thesis", "Rice's theorem"],
-      "correctAnswer": "Halting problem"
+      "question": "What is the primary challenge of the Quantifier Alternation Problem?",
+      "options": [
+        "Analyzing computational complexity of first-order formulas with multiple quantifier types",
+        "Eliminating quantifier interactions",
+        "Reducing logical complexity",
+        "Creating universal quantification methods"
+      ],
+      "correctAnswer": "Analyzing computational complexity of first-order formulas with multiple quantifier types"
     },
     {
       "id": "h22",
-      "question": "What is the name of the theoretical form of matter that exists at extremely high densities and temperatures?",
-      "options": ["Quark-gluon plasma", "Bose-Einstein condensate", "Neutron degenerate matter", "Strange matter"],
-      "correctAnswer": "Quark-gluon plasma"
+      "question": "What does the Chang-Keisler Theorem demonstrate?",
+      "options": [
+        "Characterizing elementary equivalence between first-order structures",
+        "Proving all models are logically equivalent",
+        "Eliminating quantifier differences",
+        "Creating universal model comparison techniques"
+      ],
+      "correctAnswer": "Characterizing elementary equivalence between first-order structures"
     },
     {
       "id": "h23",
-      "question": "Which mathematical concept describes a space where the parallel postulate of Euclidean geometry does not hold?",
-      "options": ["Non-Euclidean geometry", "Topology", "Vector space", "Manifold"],
-      "correctAnswer": "Non-Euclidean geometry"
+      "question": "What is the significance of the Mostowski Collapse Lemma?",
+      "options": [
+        "Transforming well-founded relations into first-order logical structures",
+        "Reducing logical complexity",
+        "Eliminating quantifier dependencies",
+        "Creating universal logical frameworks"
+      ],
+      "correctAnswer": "Transforming well-founded relations into first-order logical structures"
     },
     {
       "id": "h24",
-      "question": "What is the name of the theoretical particle that would explain why particles have mass?",
-      "options": ["Higgs boson", "W boson", "Z boson", "Gluon"],
-      "correctAnswer": "Higgs boson"
+      "question": "What does the Keisler-Shelah Theorem demonstrate?",
+      "options": [
+        "Characterizing elementary equivalence through model-theoretic methods",
+        "Proving all models are isomorphic",
+        "Eliminating quantifier ambiguities",
+        "Creating universal model comparison techniques"
+      ],
+      "correctAnswer": "Characterizing elementary equivalence through model-theoretic methods"
     },
     {
       "id": "h25",
-      "question": "Which principle states that no two identical fermions can occupy the same quantum state simultaneously?",
-      "options": ["Pauli exclusion principle", "Heisenberg uncertainty principle", "Complementarity principle", "Correspondence principle"],
-      "correctAnswer": "Pauli exclusion principle"
+      "question": "What is the primary concern of the Quantifier Complexity Analysis?",
+      "options": [
+        "Measuring logical complexity through quantifier depth and type",
+        "Eliminating quantifier variations",
+        "Reducing logical statements",
+        "Creating universal quantification methods"
+      ],
+      "correctAnswer": "Measuring logical complexity through quantifier depth and type"
     },
     {
       "id": "h26",
-      "question": "What is the name of the mathematical concept that describes a collection of points forming a connected region in space?",
-      "options": ["Manifold", "Set", "Field", "Group"],
-      "correctAnswer": "Manifold"
+      "question": "What does the Robinson Forcing Theorem demonstrate?",
+      "options": [
+        "Constructing models through logical forcing techniques",
+        "Proving all theories are consistent",
+        "Eliminating quantifier uncertainties",
+        "Creating universal model construction methods"
+      ],
+      "correctAnswer": "Constructing models through logical forcing techniques"
     },
     {
       "id": "h27",
-      "question": "Which physical theory attempts to reconcile quantum mechanics with general relativity?",
-      "options": ["String theory", "Loop quantum gravity", "Causal dynamical triangulations", "Twistor theory"],
-      "correctAnswer": "String theory"
+      "question": "What is the significance of the Łoś-Vaught Test?",
+      "options": [
+        "Determining completeness of first-order theories",
+        "Proving all theories are decidable",
+        "Eliminating quantifier ambiguities",
+        "Creating universal logical frameworks"
+      ],
+      "correctAnswer": "Determining completeness of first-order theories"
     },
     {
       "id": "h28",
-      "question": "What is the name of the mathematical concept that describes a transformation that preserves distances between points?",
-      "options": ["Isometry", "Homomorphism", "Homeomorphism", "Diffeomorphism"],
-      "correctAnswer": "Isometry"
+      "question": "What does the Magidor-Malliaris Theorem demonstrate?",
+      "options": [
+        "Structural properties of infinitary logics with generalized quantifiers",
+        "Proving all infinite models are similar",
+        "Eliminating quantifier complexities",
+        "Creating universal model comparison techniques"
+      ],
+      "correctAnswer": "Structural properties of infinitary logics with generalized quantifiers"    
     },
     {
       "id": "h29",
-      "question": "Which quantum mechanical interpretation suggests that every possible outcome of a quantum event occurs in a different parallel universe?",
-      "options": ["Many-worlds interpretation", "Copenhagen interpretation", "Pilot wave theory", "Quantum Bayesianism"],
-      "correctAnswer": "Many-worlds interpretation"
+      "question": "What is the primary significance of the Feferman-Vaught Theorem?",
+      "options": [
+        "Analyzing logical properties of product structures",
+        "Eliminating quantifier complexities",
+        "Creating universal model construction methods",
+        "Proving all theories are decidable"
+      ],
+      "correctAnswer": "Analyzing logical properties of product structures"
     },
     {
       "id": "h30",
-      "question": "What is the name of the theoretical object that would allow information to be preserved when falling into a black hole?",
-      "options": ["Holographic principle", "Firewall", "Fuzzball", "Planck star"],
-      "correctAnswer": "Holographic principle"
+      "question": "What does the Gaifman Locality Theorem demonstrate in first-order logic?",
+      "options": [
+        "Limitations of first-order logic in describing local structural properties",
+        "Proving all logical statements are locally definable",
+        "Eliminating quantifier dependencies",
+        "Creating universal logical frameworks"
+      ],
+      "correctAnswer": "Limitations of first-order logic in describing local structural properties"
     },
     {
       "id": "h31",
-      "question": "Which mathematical theorem states that every polynomial equation has a complex solution?",
-      "options": ["Fundamental theorem of algebra", "Intermediate value theorem", "Mean value theorem", "Rolle's theorem"],
-      "correctAnswer": "Fundamental theorem of algebra"
+      "question": "What is the primary challenge of the Quantifier Reduction Problem?",
+      "options": [
+        "Simplifying first-order formulas to logically equivalent quantifier-free forms",
+        "Increasing logical complexity",
+        "Creating more intricate quantification methods",
+        "Proving all statements are reducible"
+      ],
+      "correctAnswer": "Simplifying first-order formulas to logically equivalent quantifier-free forms"
     },
     {
       "id": "h32",
-      "question": "What is the name of the theoretical particle that always travels faster than light?",
-      "options": ["Tachyon", "Luxon", "Tardyon", "Preon"],
-      "correctAnswer": "Tachyon"
+      "question": "What does the Shelah Classification Theorem demonstrate?",
+      "options": [
+        "Structural classification of first-order theories based on their model-theoretic properties",
+        "Proving all theories are fundamentally similar",
+        "Eliminating quantifier variations",
+        "Creating universal model comparison techniques"
+      ],
+      "correctAnswer": "Structural classification of first-order theories based on their model-theoretic properties"
     },
     {
       "id": "h33",
-      "question": "Which mathematical concept describes a space where distances between points can be defined?",
-      "options": ["Metric space", "Topological space", "Vector space", "Hilbert space"],
-      "correctAnswer": "Metric space"
+      "question": "What is the significance of the Morley Categoricity Theorem?",
+      "options": [
+        "Characterizing theories with unique models up to isomorphism",
+        "Proving all theories are categorically complete",
+        "Eliminating quantifier ambiguities",
+        "Creating universal logical frameworks"
+      ],
+      "correctAnswer": "Characterizing theories with unique models up to isomorphism"
     },
     {
       "id": "h34",
-      "question": "What is the name of the quantum mechanical effect where particles can exist in multiple states simultaneously?",
-      "options": ["Quantum superposition", "Quantum entanglement", "Quantum tunneling", "Quantum decoherence"],
-      "correctAnswer": "Quantum superposition"
+      "question": "What does the Baldwin-Lachlan Theorem demonstrate?",
+      "options": [
+        "Structural properties of uncountably categorical theories",
+        "Proving all theories have similar model structures",
+        "Eliminating quantifier complexities",
+        "Creating universal model comparison techniques"
+      ],
+      "correctAnswer": "Structural properties of uncountably categorical theories"
     },
     {
       "id": "h35",
-      "question": "Which theorem states that the sum of the angles in a hyperbolic triangle is less than 180 degrees?",
-      "options": ["Gauss-Bonnet theorem", "Pythagoras theorem", "Law of sines", "Law of cosines"],
-      "correctAnswer": "Gauss-Bonnet theorem"
+      "question": "What is the primary concern of the Quantifier Expansion Problem?",
+      "options": [
+        "Analyzing the logical complexity introduced by additional quantifiers",
+        "Reducing logical statement complexity",
+        "Eliminating quantifier variations",
+        "Creating universal quantification methods"
+      ],
+      "correctAnswer": "Analyzing the logical complexity introduced by additional quantifiers"
     },
     {
       "id": "h36",
-      "question": "What is the name of the theoretical structure that would connect two different points in the universe through a shortcut in spacetime?",
-      "options": ["Wormhole", "Black hole", "White hole", "Cosmic string"],
-      "correctAnswer": "Wormhole"
+      "question": "What does the Keisler Measure Theorem demonstrate?",
+      "options": [
+        "Comparing model-theoretic complexity through probability measures",
+        "Proving all models are measurably equivalent",
+        "Eliminating quantifier uncertainties",
+        "Creating universal model comparison techniques"
+      ],
+      "correctAnswer": "Comparing model-theoretic complexity through probability measures"
     },
     {
       "id": "h37",
-      "question": "Which mathematical concept describes a collection of elements with a binary operation that satisfies certain axioms?",
-      "options": ["Group", "Ring", "Field", "Module"],
-      "correctAnswer": "Group"
+      "question": "What is the significance of the Zilber Trichotomy Conjecture?",
+      "options": [
+        "Characterizing algebraically closed fields with additional structural properties",
+        "Proving all fields have similar logical structures",
+        "Eliminating quantifier complexities",
+        "Creating universal algebraic frameworks"
+      ],
+      "correctAnswer": "Characterizing algebraically closed fields with additional structural properties"
     },
     {
       "id": "h38",
-      "question": "What is the name of the theoretical particle that would explain the existence of dark matter?",
-      "options": ["WIMP", "Axion", "Sterile neutrino", "Gravitino"],
-      "correctAnswer": "WIMP"
+      "question": "What does the Makkai Theorem demonstrate in first-order logic?",
+      "options": [
+        "Limitations of first-order logic in capturing higher-order structural properties",
+        "Proving all logical statements are definable",
+        "Eliminating quantifier dependencies",
+        "Creating universal logical frameworks"
+      ],
+      "correctAnswer": "Limitations of first-order logic in capturing higher-order structural properties"
     },
     {
       "id": "h39",
-      "question": "Which mathematical theorem states that any continuous function on a closed interval has a maximum and minimum value?",
-      "options": ["Extreme value theorem", "Mean value theorem", "Intermediate value theorem", "Rolle's theorem"],
-      "correctAnswer": "Extreme value theorem"
+      "question": "What is the primary challenge of the Quantifier Generalization Problem?",
+      "options": [
+        "Extending first-order logic with more expressive quantification methods",
+        "Reducing logical complexity",
+        "Eliminating quantifier variations",
+        "Creating universal quantification techniques"
+      ],
+      "correctAnswer": "Extending first-order logic with more expressive quantification methods"
     },
     {
       "id": "h40",
-      "question": "What is the name of the quantum mechanical phenomenon where particles can exchange their quantum numbers?",
-      "options": ["Particle exchange", "Quantum tunneling", "Wave function collapse", "Quantum entanglement"],
-      "correctAnswer": "Particle exchange"
-    },
-    {
-      "id": "h41",
-      "question": "Which mathematical concept describes a space where each point has a neighborhood that resembles Euclidean space?",
-      "options": ["Manifold", "Topology", "Metric space", "Vector space"],
-      "correctAnswer": "Manifold"
-    },
-    {
-      "id": "h42",
-      "question": "What is the name of the theoretical force that would unify all fundamental forces including gravity?",
-      "options": ["Theory of everything", "Grand unified theory", "Quantum gravity", "Standard model"],
-      "correctAnswer": "Theory of everything"
-    },
-    {
-      "id": "h43",
-      "question": "Which mathematical theorem states that every continuous function on a closed interval is uniformly continuous?",
-      "options": ["Heine-Cantor theorem", "Bolzano-Weierstrass theorem", "Baire category theorem", "Banach fixed-point theorem"],
-      "correctAnswer": "Heine-Cantor theorem"
-    },
-    {
-      "id": "h44",
-      "question": "What is the name of the quantum mechanical effect where a particle's spin is quantized in discrete values?",
-      "options": ["Spin quantization", "Zeeman effect", "Stark effect", "Lamb shift"],
-      "correctAnswer": "Spin quantization"
-    },
-    {
-      "id": "h45",
-      "question": "Which mathematical concept describes a space where the notion of distance is replaced by a more general set of axioms?",
-      "options": ["Topological space", "Metric space", "Vector space", "Normed space"],
-      "correctAnswer": "Topological space"
-    },
-    {
-      "id": "h46",
-      "question": "What is the name of the theoretical particle that would mediate the strong nuclear force?",
-      "options": ["Gluon", "Photon", "W boson", "Z boson"],
-      "correctAnswer": "Gluon"
-    },
-    {
-      "id": "h47",
-      "question": "Which mathematical theorem states that every polynomial of degree n has exactly n complex roots, counting multiplicity?",
-      "options": ["Fundamental theorem of algebra", "Factor theorem", "Remainder theorem", "Rational root theorem"],
-      "correctAnswer": "Fundamental theorem of algebra"
-    },
-    {
-      "id": "h48",
-      "question": "What is the name of the quantum mechanical phenomenon where a particle's properties depend on the measurement basis?",
-      "options": ["Quantum complementarity", "Wave-particle duality", "Quantum entanglement", "Quantum tunneling"],
-      "correctAnswer": "Quantum complementarity"
-    },
-    {
-      "id": "h49",
-      "question": "Which mathematical concept describes a function that maps a topological space to itself continuously?",
-      "options": ["Homeomorphism", "Isomorphism", "Homomorphism", "Diffeomorphism"],
-      "correctAnswer": "Homeomorphism"
-    },
-    {
-      "id": "h50",
-      "question": "What is the name of the theoretical particle that would explain the asymmetry between matter and antimatter in the universe?",
-      "options": ["Majorana fermion", "Sterile neutrino", "Axion", "Magnetic monopole"],
-      "correctAnswer": "Majorana fermion"
+      "question": "What does the Hrushovski Construction demonstrate?",
+      "options": [
+        "Advanced model-theoretic construction techniques for complex structures",
+        "Proving all theories are constructible",
+        "Eliminating quantifier ambiguities",
+        "Creating universal model construction methods"
+      ],
+      "correctAnswer": "Advanced model-theoretic construction techniques for complex structures"
     }
   ]
 } 

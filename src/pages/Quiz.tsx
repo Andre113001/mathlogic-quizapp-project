@@ -2,6 +2,8 @@ import { useEffect, useState } from 'react'
 import { useNavigate, useLocation } from 'react-router-dom'
 import { Button } from "@/components/ui/button"
 import { getQuestions } from '@/utils/questionUtils'
+import { Header } from '@/components/header'
+import { Footer } from '@/components/footer'
 
 type Question = {
   id: string
@@ -131,20 +133,31 @@ export function Quiz() {
           <div className="space-y-4">
             {currentQuestion.options.map((option, index) => (
               <Button
-                key={index}
-                variant={selectedAnswer === option ? "default" : "outline"}
-                className={`w-full justify-start text-left ${
-                  selectedAnswer && option === currentQuestion.correctAnswer
-                    ? "bg-green-500 hover:bg-green-500 text-white"
-                    : selectedAnswer === option
-                    ? "bg-red-500 hover:bg-red-500 text-white"
-                    : ""
-                }`}
-                onClick={() => handleAnswerSelect(option)}
-                disabled={selectedAnswer !== null || timeLeft === 0}
-              >
-                {option}
-              </Button>
+              key={index}
+              variant={selectedAnswer === option ? "default" : "outline"}
+              className={`
+                w-full 
+                text-wrap 
+                min-h-[50px] 
+                h-auto 
+                py-2 
+                px-4 
+                justify-start 
+                text-left 
+                break-words 
+                whitespace-normal 
+                ${selectedAnswer && option === currentQuestion.correctAnswer
+                  ? "bg-green-500 hover:bg-green-500 text-white"
+                  : selectedAnswer === option
+                  ? "bg-red-500 hover:bg-red-500 text-white"
+                  : ""
+                }
+              `}
+              onClick={() => handleAnswerSelect(option)}
+              disabled={selectedAnswer !== null || timeLeft === 0}
+            >
+              {option}
+            </Button>
             ))}
           </div>
 
@@ -163,6 +176,7 @@ export function Quiz() {
           </span>
         </div>
       </div>
+      <Footer />
     </div>
   )
 }
