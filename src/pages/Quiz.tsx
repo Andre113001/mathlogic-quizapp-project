@@ -2,7 +2,6 @@ import { useEffect, useState } from 'react'
 import { useNavigate, useLocation } from 'react-router-dom'
 import { Button } from "@/components/ui/button"
 import { getQuestions } from '@/utils/questionUtils'
-import { Header } from '@/components/header'
 import { Footer } from '@/components/footer'
 
 type Question = {
