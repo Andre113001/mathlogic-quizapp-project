@@ -1,5 +1,3 @@
-import { useState } from "react"
-
 export function Footer() {
   return (
     <div className="absolute bottom-0 left-0 w-full h-10 p-10 flex items-center justify-center">
